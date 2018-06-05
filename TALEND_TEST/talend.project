@@ -441,4 +441,5 @@
   <TalendProperties:User xmi:id="_-fprMmdGEeiWuJJmNRZuQA" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_zMLZkGdLEeikM7lIwuyBpg" login="ramu@gmail.com" firstName="ramu" lastName="krish" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_7xIPAGfAEeikM7lIwuyBpg" login="Trigger-Runner" type="DI"/>
+  <TalendProperties:User xmi:id="_lycxIGiEEeifHbjTXyzwiA" login="talend@gmail.com" firstName="Talend" lastName="studio" type="DI" additionnalData="{}"/>
 </xmi:XMI>
