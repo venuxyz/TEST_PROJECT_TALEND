@@ -7,6 +7,48 @@
     <documentationStatus xmi:id="_HQg0kGlPEeiJ1sFQUXVxCA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_HQhboGlPEeiJ1sFQUXVxCA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_HQhboWlPEeiJ1sFQUXVxCA" label="validated" code="VAL"/>
+    <statAndLogsSettings xmi:id="_NDf4IGlVEeiJ1sFQUXVxCA">
+      <parameters xmi:id="_NDgfMGlVEeiJ1sFQUXVxCA">
+        <elementParameter xmi:id="_S6Xk4GlVEeiJ1sFQUXVxCA" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk4WlVEeiJ1sFQUXVxCA" field="CHECK" name="STATS_DEFAULT_PROJECTSETTING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk4mlVEeiJ1sFQUXVxCA" field="CHECK" name="ON_STATCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk42lVEeiJ1sFQUXVxCA" field="CHECK" name="ON_LOGCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk5GlVEeiJ1sFQUXVxCA" field="CHECK" name="ON_METERCATCHER_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk5WlVEeiJ1sFQUXVxCA" field="CHECK" name="ON_CONSOLE_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk5mlVEeiJ1sFQUXVxCA" field="CHECK" name="ON_FILES_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk52lVEeiJ1sFQUXVxCA" field="DIRECTORY" name="FILE_PATH" value="&quot;C:/Users/Venu/workspace/.metadata&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk6GlVEeiJ1sFQUXVxCA" field="TEXT" name="FILENAME_STATS" value="&quot;stats_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk6WlVEeiJ1sFQUXVxCA" field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk6mlVEeiJ1sFQUXVxCA" field="TEXT" name="FILENAME_METTER" value="&quot;meter_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk62lVEeiJ1sFQUXVxCA" field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk7GlVEeiJ1sFQUXVxCA" field="CHECK" name="ON_DATABASE_FLAG" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk7WlVEeiJ1sFQUXVxCA" field="PROPERTY_TYPE" name="PROPERTY_TYPE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk7mlVEeiJ1sFQUXVxCA" field="CLOSED_LIST" name="DB_TYPE" value="tOracleOutput_servername" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk72lVEeiJ1sFQUXVxCA" field="CLOSED_LIST" name="DB_VERSION" value="ORACLE_12" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk8GlVEeiJ1sFQUXVxCA" field="TEXT" name="URL" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk8WlVEeiJ1sFQUXVxCA" field="TABLE" name="DRIVER_JAR" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk8mlVEeiJ1sFQUXVxCA" field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk82lVEeiJ1sFQUXVxCA" field="TEXT" name="HOST" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk9GlVEeiJ1sFQUXVxCA" field="TEXT" name="PORT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk9WlVEeiJ1sFQUXVxCA" field="TEXT" name="DBNAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk9mlVEeiJ1sFQUXVxCA" field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk92lVEeiJ1sFQUXVxCA" field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk-GlVEeiJ1sFQUXVxCA" field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6Xk-WlVEeiJ1sFQUXVxCA" field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL8GlVEeiJ1sFQUXVxCA" field="PASSWORD" name="PASS" value="0RMsyjmybrE=" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL8WlVEeiJ1sFQUXVxCA" field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL8mlVEeiJ1sFQUXVxCA" field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL82lVEeiJ1sFQUXVxCA" field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL9GlVEeiJ1sFQUXVxCA" field="DBTABLE" name="TABLE_METER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL9WlVEeiJ1sFQUXVxCA" field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL9mlVEeiJ1sFQUXVxCA" field="CHECK" name="CATCH_USER_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL92lVEeiJ1sFQUXVxCA" field="CHECK" name="CATCH_USER_WARNING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL-GlVEeiJ1sFQUXVxCA" field="CHECK" name="CATCH_REALTIME_STATS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL-WlVEeiJ1sFQUXVxCA" field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL-mlVEeiJ1sFQUXVxCA" field="TECHNICAL" name="PROPERTY_TYPE:PROPERTY_TYPE" value="BUILT_IN" contextMode="false"/>
+        <elementParameter xmi:id="_S6YL-2lVEeiJ1sFQUXVxCA" field="TECHNICAL" name="PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
+      </parameters>
+    </statAndLogsSettings>
     <migrationTask xmi:id="_HJ9goGlPEeiJ1sFQUXVxCA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_HJ9goWlPEeiJ1sFQUXVxCA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_HJ9gomlPEeiJ1sFQUXVxCA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
